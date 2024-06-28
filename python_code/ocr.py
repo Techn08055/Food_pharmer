@@ -2,7 +2,7 @@ import cv2
 import pytesseract
 
 # Load an image from file
-image_path = './download.jpeg'
+image_path = '/teamspace/studios/this_studio/Food_pharmer/python_code/download.jpeg'
 image = cv2.imread(image_path)
 
 # Convert the image to grayscale
